@@ -1,5 +1,7 @@
-# CursedNet Information
-## What is CursedNet's mission?
+✨ Welcome to CursedNet
+---
+
+### What is CursedNet's mission?
 
 We’re a small team focused on infrastructure, driven by one frustration: hosting has been unnecessarily painful for too long.
 
@@ -7,11 +9,15 @@ We’ve run servers, scaled projects, and dealt with the same problems everyone 
 
 If you’re done settling for inconsistent hosting and want infrastructure that feels built with care instead of corners cut, you’re in the right place.
 
-## Where can I find your social media or pages?
+### Where can I find your social media or pages?
 You can find our social media & TrustPilot links below!
 
 **TrustPilot**:
+
 **TikTok**:
+
 **YouTube**:
+
 **Twitter**:
+
 **Our Websites**:
