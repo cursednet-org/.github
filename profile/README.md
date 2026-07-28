@@ -1,7 +1,7 @@
-✨ Welcome to CursedNet
+✨ Welcome to ______
 ---
 
-### What is CursedNet's mission?
+### What is ______'s mission?
 
 We’re a small team focused on infrastructure, driven by one frustration: hosting has been unnecessarily painful for too long.
 
