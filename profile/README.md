@@ -1,7 +1,7 @@
-✨ Welcome to ______
+✨ Welcome to NullCloud
 ---
 
-### What is ______'s mission?
+### What is NullCloud's mission?
 
 We’re a small team focused on infrastructure, driven by one frustration: hosting has been unnecessarily painful for too long.
 
